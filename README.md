@@ -5,7 +5,7 @@
 ## 项目结构
 
 ```
-├── dataset/                  # 解压后的岩石图像数据集  
+├── dataset/                 # 解压后的岩石图像数据集  
 ├── best_model.pth           # 训练得到的最佳模型权重文件  
 ├── dataset.zip              # 压缩格式的数据集  
 ├── dataset.py               # 数据集加载与预处理脚本  
