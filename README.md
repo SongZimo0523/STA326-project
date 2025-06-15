@@ -7,7 +7,7 @@
 ```
 ├── dataset/                 # 解压后的岩石图像数据集  
 ├── best_model.pth           # 训练得到的最佳模型权重文件  
-├── dataset.zip              # 压缩格式的数据集  
+├── dataset.zip              # 压缩格式的数据集（文件过大，从 SUSTech 统计与数据科学系获取）  
 ├── dataset.py               # 数据集加载与预处理脚本  
 ├── train_best_model.ipynb   # 主训练脚本  
 ├── test_predictions.csv     # 模型在测试集上的预测结果  
